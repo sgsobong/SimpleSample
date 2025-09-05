@@ -3,4 +3,7 @@
   <data name="Greeting" xml:space="preserve">
     <value>Hello, World!</value>
   </data>
+  <data name="Readme" xml:space="preserve">
+    <value>There is a sample README.</value>
+  </data>
 </root>
